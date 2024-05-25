@@ -1,0 +1,10 @@
+NEXT JS PROJECT STRUCTURE 
+
+app - routes
+components - ui, forms, shared, sections 
+constants - constant values
+styles - css properties 
+public - asssts/ icons, images
+lib - utils, validation (schema)
+types - interface types 
+database - database and schema
